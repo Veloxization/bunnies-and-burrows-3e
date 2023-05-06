@@ -63,6 +63,10 @@
                         "combat": [],
                         "pursuit": []
                     }
+                },
+                "details": {
+                    "species": "",
+                    "gender": ""
                 }
             }
         },
@@ -126,7 +130,13 @@
             }
         },
         "npc": {
-            "templates": ["common"]
+            "templates": ["common"],
+            "details": {
+                "ageclass": "",
+                "type": "",
+                "description": "",
+                "habits": ""
+            }
         }
     },
     "Item": {
