@@ -110,5 +110,48 @@
         "npc": {
             "templates": ["common"]
         }
+    },
+    "Item": {
+        "types": [
+            "food",
+            "shell",
+            "herb"
+        ],
+        "templates": {
+            "common": {
+                "habitats": []
+            },
+            "herbalism": {
+                "class": ""
+            }
+        },
+        "food": {
+            "templates": ["common"],
+            "value": 1,
+            "uses": ""
+        },
+        "shell": {
+            "templates": ["common", "herbalism"],
+            "description": ""
+        },
+        "herb": {
+            "templates": ["common", "herbalism"],
+            "odor": {
+                "source": "",
+                "type": "",
+                "clarity": "",
+                "quality": "",
+                "temperament": "",
+                "agency": "",
+                "tone": ""
+            },
+            "attributes": {
+                "preparation": "",
+                "poisonweed": "",
+                "delivery": "",
+                "effects": "",
+                "pweffects": ""
+            }
+        }
     }
 }
