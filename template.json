@@ -96,19 +96,19 @@
                         "pursuit": []
                     }
                 }
-            },
-            "character": {
-                "templates": ["common"],
-                "attributes": {
-                    "ap": {
-                        "earned": 2,
-                        "unspent": 2
-                    }
-                }
-            },
-            "npc": {
-                "templates": ["common"]
             }
+        },
+        "character": {
+            "templates": ["common"],
+            "attributes": {
+                "ap": {
+                    "earned": 2,
+                    "unspent": 2
+                }
+            }
+        },
+        "npc": {
+            "templates": ["common"]
         }
     }
 }
