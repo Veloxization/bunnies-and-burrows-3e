@@ -58,11 +58,7 @@
                         "pursuit": 2
                     },
                     "injuries": [],
-                    "languages": [],
-                    "tactics": {
-                        "combat": [],
-                        "pursuit": []
-                    }
+                    "languages": []
                 },
                 "details": {
                     "species": "",
@@ -143,7 +139,11 @@
         "types": [
             "food",
             "shell",
-            "herb"
+            "herb",
+            "misc",
+            "ability",
+            "profability",
+            "profession"
         ],
         "templates": {
             "common": {
@@ -151,6 +151,10 @@
             },
             "herbalism": {
                 "class": ""
+            },
+            "ability": {
+                "usedin": [],
+                "description": ""
             }
         },
         "food": {
@@ -180,6 +184,20 @@
                 "effects": "",
                 "pweffects": ""
             }
+        },
+        "misc": {
+            "description": ""
+        },
+        "ability": {
+            "templates": ["ability"]
+        },
+        "profability": {
+            "templates": ["ability"],
+            "profession": "",
+            "traitlevel": 1
+        },
+        "profession": {
+            "trait": ""
         }
     }
 }
