@@ -2,7 +2,7 @@
   "id": "bunnies-and-burrows-3e",
   "title": "Bunnies & Burrows 3rd Edition",
   "description": "A FoundryVTT system implementation for playing the Bunnies & Burrows 3rd Edition system.",
-  "version": "Alpha Build 1",
+  "version": "0.1",
   "compatibility": {
     "minimum": "10",
     "verified": "10",
