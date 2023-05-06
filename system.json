@@ -19,8 +19,7 @@
   "socket": false,
   "gridDistance": 1,
   "gridUnits": "m",
-  "primaryTokenAttribute": "resources.health",
-  "secondaryTokenAttribute": "resources.movement",
+  "primaryTokenAttribute": "attributes.hp",
   "url": "https://github.com/Veloxization/bunnies-and-burrows-3e",
   "manifest": "https://github.com/Veloxization/bunnies-and-burrows-3e/tree/main/system.json",
   "download": "https://github.com/Veloxization/bunnies-and-burrows-3e/releases"
