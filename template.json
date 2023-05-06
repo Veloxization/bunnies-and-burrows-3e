@@ -8,73 +8,41 @@
             "common": {
                 "traits": {
                     "str": {
-                        "base": 0,
-                        "bonus": 0,
-                        "level": 0,
-                        "levelmax": 0,
                         "rating": 0,
                         "temp": 0,
                         "temprating": 0
                     },
                     "spd": {
-                        "base": 0,
-                        "bonus": 0,
-                        "level": 0,
-                        "levelmax": 0,
                         "rating": 0,
                         "temp": 0,
                         "temprating": 0
                     },
                     "int": {
-                        "base": 0,
-                        "bonus": 0,
-                        "level": 0,
-                        "levelmax": 0,
                         "rating": 0,
                         "temp": 0,
                         "temprating": 0
                     },
                     "agi": {
-                        "base": 0,
-                        "bonus": 0,
-                        "level": 0,
-                        "levelmax": 0,
                         "rating": 0,
                         "temp": 0,
                         "temprating": 0
                     },
                     "con": {
-                        "base": 0,
-                        "bonus": 0,
-                        "level": 0,
-                        "levelmax": 0,
                         "rating": 0,
                         "temp": 0,
                         "temprating": 0
                     },
                     "mys": {
-                        "base": 0,
-                        "bonus": 0,
-                        "level": 0,
-                        "levelmax": 0,
                         "rating": 0,
                         "temp": 0,
                         "temprating": 0
                     },
                     "sml": {
-                        "base": 0,
-                        "bonus": 0,
-                        "level": 0,
-                        "levelmax": 0,
                         "rating": 0,
                         "temp": 0,
                         "temprating": 0
                     },
                     "cha": {
-                        "base": 0,
-                        "bonus": 0,
-                        "level": 0,
-                        "levelmax": 0,
                         "rating": 0,
                         "temp": 0,
                         "temprating": 0
@@ -100,6 +68,56 @@
         },
         "character": {
             "templates": ["common"],
+            "traits": {
+                "str": {
+                    "base": 0,
+                    "bonus": 0,
+                    "level": 0,
+                    "levelmax": 4
+                },
+                "spd": {
+                    "base": 0,
+                    "bonus": 0,
+                    "level": 0,
+                    "levelmax": 4
+                },
+                "int": {
+                    "base": 0,
+                    "bonus": 0,
+                    "level": 0,
+                    "levelmax": 4
+                },
+                "agi": {
+                    "base": 0,
+                    "bonus": 0,
+                    "level": 0,
+                    "levelmax": 4
+                },
+                "con": {
+                    "base": 0,
+                    "bonus": 0,
+                    "level": 0,
+                    "levelmax": 4
+                },
+                "mys": {
+                    "base": 0,
+                    "bonus": 0,
+                    "level": 0,
+                    "levelmax": 4
+                },
+                "sml": {
+                    "base": 0,
+                    "bonus": 0,
+                    "level": 0,
+                    "levelmax": 4
+                },
+                "cha": {
+                    "base": 0,
+                    "bonus": 0,
+                    "level": 0,
+                    "levelmax": 4
+                }
+            },
             "attributes": {
                 "ap": {
                     "earned": 2,
