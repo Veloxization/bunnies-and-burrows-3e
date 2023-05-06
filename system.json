@@ -1,0 +1,27 @@
+{
+  "id": "bunnies-and-burrows-3e",
+  "title": "Bunnies & Burrows 3rd Edition",
+  "description": "A FoundryVTT system implementation for playing the Bunnies & Burrows 3rd Edition system.",
+  "version": "Alpha Build 1",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10",
+    "maximum": "10"
+  },
+  "authors": [
+    {
+      "name": "Veloxization",
+      "url": "https://www.velobun.xyz/",
+	  "email": "foundry@velobun.xyz",
+	  "discord": "Veloxization#0735"
+    }
+  ],
+  "socket": false,
+  "gridDistance": 1,
+  "gridUnits": "m",
+  "primaryTokenAttribute": "resources.health",
+  "secondaryTokenAttribute": "resources.movement",
+  "url": "https://github.com/Veloxization/bunnies-and-burrows-3e",
+  "manifest": "https://github.com/Veloxization/bunnies-and-burrows-3e/tree/main/system.json",
+  "download": "https://github.com/Veloxization/bunnies-and-burrows-3e/releases"
+}
