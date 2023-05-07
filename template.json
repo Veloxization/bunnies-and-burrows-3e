@@ -193,7 +193,6 @@
         },
         "profability": {
             "templates": ["ability"],
-            "profession": "",
             "traitlevel": 1
         },
         "profession": {
