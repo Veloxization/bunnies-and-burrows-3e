@@ -16,6 +16,9 @@
       "discord": "Veloxization#0735"
     }
   ],
+  "esmodules": [
+    "bnb3e.js"
+  ],
   "languages": [
     {
       "lang": "en",
