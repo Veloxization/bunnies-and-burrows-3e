@@ -16,6 +16,13 @@
       "discord": "Veloxization#0735"
     }
   ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
   "socket": false,
   "gridDistance": 1,
   "gridUnits": "m",
