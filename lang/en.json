@@ -17,5 +17,7 @@
     "ITEM.TypeProfability": "Profession Ability",
     "ITEM.TypeProfabilityPl": "Profession Abilities",
     "ITEM.TypeProfession": "Profession",
-    "ITEM.TypeProfessionPl": "Professions"
+    "ITEM.TypeProfessionPl": "Professions",
+
+    "BNB.Sheets.CharacterSheet": "Character Sheet"
 }
