@@ -1,0 +1,21 @@
+{
+    "ACTOR.TypeCharacter": "Player Character",
+    "ACTOR.TypeCharacterPl": "Player Characters",
+    "ACTOR.TypeNpc": "Non-Player Character",
+    "ACTOR.TypeNpcPl": "Non-Player Characters",
+
+    "ITEM.TypeFood": "Prized Food",
+    "ITEM.TypeFoodPl": "Prized Foods",
+    "ITEM.TypeShell": "Non-Herbal Shell",
+    "ITEM.TypeShellPl": "Non-Herbal Shells",
+    "ITEM.TypeHerb": "Herb",
+    "ITEM.TypeHerbPl": "Herbs",
+    "ITEM.TypeMisc": "Miscellaneous Item",
+    "ITEM.TypeMiscPl": "Miscellaneous Items",
+    "ITEM.TypeAbility": "Ability",
+    "ITEM.TypeAbilityPl": "Abilities",
+    "ITEM.TypeProfability": "Profession Ability",
+    "ITEM.TypeProfabilityPl": "Profession Abilities",
+    "ITEM.TypeProfession": "Profession",
+    "ITEM.TypeProfessionPl": "Professions"
+}
