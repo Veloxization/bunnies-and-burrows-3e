@@ -5,15 +5,15 @@
   "version": "0.1",
   "compatibility": {
     "minimum": "10",
-    "verified": "10",
-    "maximum": "10"
+    "verified": "11",
+    "maximum": "11"
   },
   "authors": [
     {
       "name": "Veloxization",
       "url": "https://www.velobun.xyz/",
       "email": "foundry@velobun.xyz",
-      "discord": "Veloxization#0735"
+      "discord": "veloxization"
     }
   ],
   "esmodules": [
